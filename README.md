@@ -1,4 +1,5 @@
 # Realistic_Car_Crash
+
 Simple edit of the famous [salty_vehicleblackout](https://github.com/SaltyGrandpa/salty_vehicleblackout) with the use of [InteractSound](https://github.com/plunkettscott/FiveM-Scripts/tree/master/InteractSound) and some shake natives
 
 
@@ -15,8 +16,11 @@ start salty_vehicleblackout
 
 And you're good to go :)
 
-
 ENJOY!
+
+## ISSUES AND SUGGESTIONS
+
+Feel free to put any issues or suggestions in "issues" tab, but I doubt there will be any :D
 
 ### DISCLAIMER
 
