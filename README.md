@@ -8,8 +8,10 @@ It not really realistic, its just more dramatic, simple fade in and fade out, wi
 
 Its just a little edit really... nothing more to add... all the info you need is pretty much already in the script just download the pack put two folders in your server directory add
 
-`start Interactsound
-start salty_vehicleblackout`
+```lua
+start Interactsound
+start salty_vehicleblackout
+```
 
 And you're good to go :)
 
